@@ -1,6 +1,6 @@
 - Hi, I’m mux
 - I only know basic HTML and CSS
-- Visit me on my Website: https://mangomux.nekoweb.org/
+- Visit me on my Website: https://mux.nekoweb.org/
 - :3
 
 <!---
